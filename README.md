@@ -8,3 +8,6 @@ when youb get to the step where you'll install jenkins. Jenkins 'J' is in upper 
 sudo apt-get install jenkins
 
 sudo systemctl status jenkins
+
+This video will help with setting up jenkins master and slave. 
+https://www.youtube.com/watch?v=GGAp74b68Qc
